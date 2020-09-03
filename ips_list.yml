@@ -67,7 +67,7 @@ jtag_pulp:
   commit: v0.1
   domain: [soc]
 riscv:
-  commit: localparam_file
+  commit: pulp
   group:  davideschiavone
   domain: [cluster, soc]
 ibex:
