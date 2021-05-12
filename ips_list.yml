@@ -18,8 +18,8 @@
 #  work, make sure to checkout a branch.
 #
 common_cells:
-  commit: v1.2o.0
-  domain: [cluster, soc]
+  commit: v1.20.0
+  domain: [soc]
 L2_tcdm_hybrid_interco:
   commit: v1.0.0
   domain: [soc]
